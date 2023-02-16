@@ -3,11 +3,9 @@
 * This file contains the CSS for index.html
 */
 
-
 body {
   background-color: powderblue;
 }
-
 
 h1 {
   background-color: rgb(38, 109, 35);
@@ -15,7 +13,6 @@ h1 {
   padding: 40px;
   text-align: center;
 }
-
 
 p {
   background-color: #ff00ff;
